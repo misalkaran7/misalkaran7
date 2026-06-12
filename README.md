@@ -1,16 +1,13 @@
-# Hi there, I'm Karan Misal 👋
+# Hey, I'm Karan 👋
 
-🎓 Final-year Computer Science and Engineering student
+I'm a final-year Computer Science and Engineering student from India with a strong interest in software development, machine learning, and cybersecurity.
 
-💻 Passionate about Software Development, Machine Learning, and Cybersecurity
+* 🔭 Currently working on personal and academic projects
+* 🌱 Learning Full-Stack Development and Machine Learning
+* 💡 Interested in AI, Cybersecurity, and Problem Solving
+* 🎯 Goal: Build impactful software and grow as a developer
+* 📫 Reach me through LinkedIn or email
 
-🌱 Currently learning Web Development, Data Structures & Algorithms, and Machine Learning
-
-🚀 Completed an AICTE-recognized internship on Forest Fire Detection using AI
-
-📚 Always exploring new technologies and building projects to strengthen my skills
-
-📫 Open to internships, collaborations, and learning opportunities
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/misalkaran7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karan-misal-4b4117284/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/misalkaran7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@karanmisal373) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:misalkaran071@gmail.com) 
