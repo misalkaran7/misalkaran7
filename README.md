@@ -22,10 +22,4 @@ I'm a final-year Computer Science and Engineering student from India with a stro
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=misalkaran7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=misalkaran7&icon=1&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
