@@ -2,12 +2,10 @@
 
 I'm a final-year Computer Science and Engineering student from India with a strong interest in software development, machine learning, and cybersecurity.
 
-* 🔭 Currently working on personal and academic projects
-* 🌱 Learning Full-Stack Development and Machine Learning
-* 💡 Interested in AI, Cybersecurity, and Problem Solving
-* 🎯 Goal: Build impactful software and grow as a developer
-* 📫 Reach me through LinkedIn or email
-
+🔭 On branch main: Currently staging personal and academic projects for deployment.
+🌱 Tracking remote branch: origin/full-stack-dev — pulling new concepts daily.
+💡 Dependencies: Deeply interested in AI/ML, Cybersecurity, and optimized Problem-Solving.
+🎯 Milestone v1.0.0: Build impactful, secure software and merge into the tech industry as a high-impact contributor.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/misalkaran7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karan-misal-4b4117284/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/misalkaran7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@karanmisal373) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:misalkaran071@gmail.com) 
