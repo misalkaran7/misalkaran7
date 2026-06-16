@@ -31,5 +31,3 @@ I'm a final-year Computer Science and Engineering student from India with a stro
 </p>
 
 
-
-
