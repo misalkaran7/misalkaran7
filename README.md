@@ -30,7 +30,6 @@ I'm a final-year Computer Science and Engineering student from India with a stro
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=misalkaran7&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=misalkaran7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 
